@@ -1,6 +1,0 @@
-matplotlib
-pandas
-seaborn
-streamlit
-anthropic
-openpyxl
